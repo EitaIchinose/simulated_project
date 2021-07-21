@@ -1,1 +1,8 @@
 .DS_Store
+docker/.DS_Store
+project-app/vendor
+project-app/.idea
+project-app/Homestead.json
+project-app/Homestead.yaml
+project-app/.env
+project-app/.phpunit.result.cache
